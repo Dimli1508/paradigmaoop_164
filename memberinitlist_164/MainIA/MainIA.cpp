@@ -6,10 +6,10 @@ using namespace std;
 
 int main() {
 	ibu* varIbu = new ibu("Dini");
-	ibu* varIbu2 = new ibu("Novi");
+	ibu* varIbu2 = new ibu("Kisela");
 	anak* varAnak1 = new anak("tono");
 	anak* varAnak2 = new anak("Rini");
-	anak* varAnak3 = new anak("Dewi");
+	anak* varAnak3 = new anak("Mashell");
 
 	varIbu->tambahAnak(varAnak1);
 	varIbu->tambahAnak(varAnak2);
