@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="memberinitlist_164.cpp">
+    <ClCompile Include="MainIA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
